@@ -6,7 +6,7 @@ Un peu comme a l'image de nmap, ce programme retournera des informations interes
 - L'addresse et la MAC de la machine scannee
 - Les ports ouverts
 - Determiner l'OS et le vendeur de cette machine   
-##Packets
+**Packets**
 L'algo tourne principalement autour du programme Python Scapy qui est un programme qui permet de creer et 
 manipuler des paquets reseaux. Cette capacite permet la construction d'outils capables de sonder, scanner ou attaquer
 les reseaux. 
